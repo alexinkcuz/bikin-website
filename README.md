@@ -6,7 +6,7 @@ John Mueller dari Google mengatakan kalau penyebutan merek ternyata bukan segala
 
 [![aus usaha saya](https://i.ibb.co/sRfZcJ8/brand-mention.jpg)](https://www.aus.co.id)
 
-Penyebutan merek atau brand mention adalah ketika sebuah website menyebutkan website lain. Ide awalnya adalah bahwa komunitas SEO menganggap jika sebuah website me-mention domain atau URL website lain, Google akan menangkapnya dan menghitung atau menganggapnya sebagai link yang sama. 
+Penyebutan merek atau brand mention adalah ketika sebuah website menyebutkan website lain. Ide awalnya adalah bahwa komunitas SEO menganggap jika sebuah website me-mention domain atau URL website lain, Google akan menangkapnya dan menghitung atau menganggapnya sebagai link yang sama.
 
 Brand mention juga dikenal dengan sebutan link sisipan. Ulasan mengenai link sisipan ini sudah banyak diulas sejak puluhan tahun lalu setelah Google memunculkan istilah ini.
 
@@ -73,7 +73,7 @@ Pada paragraf pembuka dikatakan bahwa metode, sistem, dan peralatan termasuk kom
 
 Sepertinya, kebanyakan orang hanya membaca bagian awal saja dari penjelasan hak cipta ini. Semua fokus pada satu paragraf di tengah-tengah paten (halaman 9 dari 16 halaman). Pada paragraf ini ada kalimat yang menyebutkan sesuatu yang kemudian dianggap sebagai implied links. Kata implied ini hanya muncul sebanyak empat kali dari keseluruhan paten dan semuanya di paragraph yang sama.
 
-Jadi, ketika paten ini ditemukan, industri SEO hanya fokus pada paragraf ini saja sebagai bukti jika Google menggunakan brand mention sebagai indicator web page ranks seperti ![tersebut di atas](https://www.aus.co.id). Padahal, untuk memahami apa itu implied links, orang harus membaca sampai habis paten itu.
+Jadi, ketika paten ini ditemukan, industri SEO hanya fokus pada paragraf ini saja sebagai bukti jika Google menggunakan brand mention sebagai indicator web page ranks seperti [tersebut di atas](https://www.aus.co.id). Padahal, untuk memahami apa itu implied links, orang harus membaca sampai habis paten itu.
 
 ## Apa Itu Permintaan Referensi?
 
