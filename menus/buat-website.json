@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle buat-website",
+        "command": "buat-website:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "buat-website",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "buat-website:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
